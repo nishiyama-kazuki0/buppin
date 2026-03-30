@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class ExpressionDBWebAPI : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\SUNTORY_OSAKA_MaterialHandlingManagementApp\ExpressionDBWebAPI\ExpressionDBWebAPI.csproj""";
+    public string ProjectPath => """C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\buppin\ExpressionDBWebAPI\ExpressionDBWebAPI.csproj""";
 }

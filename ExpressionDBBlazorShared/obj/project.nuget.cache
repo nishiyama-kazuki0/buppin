@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "78TE99eTbi0=",
+  "dgSpecHash": "43mVkFSp8sU=",
   "success": true,
-  "projectFilePath": "C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj",
+  "projectFilePath": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\buppin\\ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\G2507\\.nuget\\packages\\blazor.dynamicjs\\0.13.0\\blazor.dynamicjs.0.13.0.nupkg.sha512",
     "C:\\Users\\G2507\\.nuget\\packages\\blazordownloadfile\\2.4.0.2\\blazordownloadfile.2.4.0.2.nupkg.sha512",
@@ -107,12 +107,5 @@
     "C:\\Users\\G2507\\.nuget\\packages\\toolbelt.blazor.viewtransition\\1.0.3\\toolbelt.blazor.viewtransition.1.0.3.nupkg.sha512",
     "C:\\Users\\G2507\\.nuget\\packages\\zxing.net\\0.16.11\\zxing.net.0.16.11.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "パッケージの脆弱性データの取得中にエラーが発生しました: ソース https://api.nuget.org/v3/index.json のサービス インデックスを読み込めません。"
-    }
-  ]
+  "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspireServiceDefaults")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+410fd7aa7a1a24411d1570e540bce4058d9428c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff31369f62748ae4db95c9a22b9200988fa01799")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspireServiceDefaults")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspireServiceDefaults")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

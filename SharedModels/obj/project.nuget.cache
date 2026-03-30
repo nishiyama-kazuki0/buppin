@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cxp8iEteUpE=",
+  "dgSpecHash": "j1ihNbppfbM=",
   "success": true,
-  "projectFilePath": "C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\SharedModels\\SharedModels.csproj",
+  "projectFilePath": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\buppin\\SharedModels\\SharedModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\G2507\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
     "C:\\Users\\G2507\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.0\\microsoft.aspnetcore.components.8.0.0.nupkg.sha512",
@@ -20,12 +20,5 @@
     "C:\\Users\\G2507\\.nuget\\packages\\toolbelt.blazor.getproperty.script\\1.2.0\\toolbelt.blazor.getproperty.script.1.2.0.nupkg.sha512",
     "C:\\Users\\G2507\\.nuget\\packages\\toolbelt.blazor.viewtransition\\1.0.3\\toolbelt.blazor.viewtransition.1.0.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "パッケージの脆弱性データの取得中にエラーが発生しました: ソース https://api.nuget.org/v3/index.json のサービス インデックスを読み込めません。"
-    }
-  ]
+  "logs": []
 }

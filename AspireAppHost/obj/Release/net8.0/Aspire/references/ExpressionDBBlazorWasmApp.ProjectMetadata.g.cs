@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class ExpressionDBBlazorWasmApp : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\SUNTORY_OSAKA_MaterialHandlingManagementApp\ExpressionDBBlazorWasmApp\ExpressionDBBlazorWasmApp.csproj""";
+    public string ProjectPath => """C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\buppin\ExpressionDBBlazorWasmApp\ExpressionDBBlazorWasmApp.csproj""";
 }

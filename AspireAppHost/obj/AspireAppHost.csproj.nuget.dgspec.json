@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\AspireAppHost\\AspireAppHost.csproj": {}
+    "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\buppin\\AspireAppHost\\AspireAppHost.csproj": {}
   },
   "projects": {
-    "C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\AspireAppHost\\AspireAppHost.csproj": {
+    "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\buppin\\AspireAppHost\\AspireAppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\AspireAppHost\\AspireAppHost.csproj",
+        "projectUniqueName": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\buppin\\AspireAppHost\\AspireAppHost.csproj",
         "projectName": "AspireAppHost",
-        "projectPath": "C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\AspireAppHost\\AspireAppHost.csproj",
+        "projectPath": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\buppin\\AspireAppHost\\AspireAppHost.csproj",
         "packagesPath": "C:\\Users\\G2507\\.nuget\\packages\\",
-        "outputPath": "C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\AspireAppHost\\obj\\",
+        "outputPath": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\buppin\\AspireAppHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
