@@ -1,0 +1,3 @@
+C:\SUNTORY_OSAKA_MaterialHandlingManagementApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\browser-wasm\PubTmp\Out\libman.json
+C:\SUNTORY_OSAKA_MaterialHandlingManagementApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\browser-wasm\PubTmp\Out\emcc-props.json
+C:\SUNTORY_OSAKA_MaterialHandlingManagementApp\ExpressionDBBlazorWasmApp\obj\Release\net8.0\browser-wasm\PubTmp\Out\web.config
